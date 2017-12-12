@@ -1,6 +1,6 @@
 {
   "name": "twitch-overlay-video",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Video Overlay for Twitch - Displays a short video clip on your stream",
   "keywords": [
     "twitch",
